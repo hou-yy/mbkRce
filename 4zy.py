@@ -1,4 +1,3 @@
-#大华DSS数字监控系统 attachment_downloadAtt.action 任意文件读取漏洞
 import requests,sys,argparse
 from multiprocessing.dummy import Pool
 
