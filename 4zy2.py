@@ -1,4 +1,3 @@
-# 某客宝智慧食堂系统 selectUserByOrgId 未授权访问漏洞
 import requests,sys,argparse
 from multiprocessing.dummy import Pool
 
